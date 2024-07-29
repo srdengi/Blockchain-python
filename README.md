@@ -19,7 +19,7 @@ To deploy this project run
 
 a)
 ```cmd
-  git clone https://github.com/M1000dotThaler/ThelaNetwork.git
+  git clone 
 ```
 
 b)
@@ -57,8 +57,7 @@ After this, open a APIs platform to make requests to the API of the Thela_Networ
 
 ## Contributing
 
-Here our contribuitors
-(https://github.com/M1000dotThaler/ThelaNetwork/graphs/contributors)
+
 
 Contributions are always welcome!
 
@@ -169,7 +168,7 @@ Phase 3:
 
 -Final web
 
--Marketing(logo...)
+-Marketing
 
 Be continued...
 
